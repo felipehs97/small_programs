@@ -28,3 +28,4 @@ if resultado is not None:
     print (f"{valor}{unidade_de} é equivalente a {resultado}{unidade_para}.")
 else:
     print('As unidades de medida selecionadas não são compatíveis para conversão.')
+    
